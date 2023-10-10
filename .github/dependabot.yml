@@ -9,8 +9,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "12:00"
+      time: "13:00"
       timezone: "America/Los_Angeles"
+    allow:
+      - dependency-name: "npm-workflow-test"
     assignees:
       - "RFSH"
     
