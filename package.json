@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm-workflow-test": "^0.0.1"
+    "npm-workflow-test": "^0.0.4"
   }
 }
